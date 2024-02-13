@@ -1,5 +1,6 @@
 ---
 title: "Untitled"
+author: "Katrina, Kaviya, Lindsay, & Matina"
 format: html
 embed-resources: true
 editor: source
